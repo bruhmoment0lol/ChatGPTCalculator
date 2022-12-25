@@ -4,5 +4,6 @@
 # Install on Windows via ClickOnce
 ## https://cogotek.tk/chatgptcalc/ChatGPTCalculator.application
 If you're using IE or Edge, this link will automatically install the program via ClickOnce
+
 For Chromium-based browsers, install the Meta4 ClickOnce Launcher
 https://chrome.google.com/webstore/detail/meta4-clickonce-launcher/jkncabbipkgbconhaajbapbhokpbgkdc/related
